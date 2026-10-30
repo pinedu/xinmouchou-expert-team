@@ -1,0 +1,1218 @@
+{
+  "generatedAt": "2026-10-29T05:15:23.771Z",
+  "site": "https://ldyg.guizhou.gov.cn",
+  "bundles": [
+    {
+      "name": "com.js",
+      "hash": "5971e43e26ce",
+      "size": 613
+    },
+    {
+      "name": "chunk-elementUI.11599b66.js",
+      "hash": "035ae8d05d83",
+      "size": 774017
+    },
+    {
+      "name": "chunk-libs.79a84a6d.js",
+      "hash": "88300d6114ee",
+      "size": 3078067
+    },
+    {
+      "name": "app.1d9f0166.js",
+      "hash": "8829a3a28f8b",
+      "size": 191608
+    },
+    {
+      "name": "inline-runtime-0.js",
+      "hash": "3f0793bf6af4",
+      "size": 40687
+    },
+    {
+      "name": "chunk-0fd3e815.327fb17f.js",
+      "hash": "6c977b8d95e1",
+      "size": 63942
+    },
+    {
+      "name": "chunk-15ddf636.d69ef08b.js",
+      "hash": "1409683afa0f",
+      "size": 7906
+    },
+    {
+      "name": "chunk-2a59e800.a5501d85.js",
+      "hash": "a9ccc3cebc0f",
+      "size": 6769
+    },
+    {
+      "name": "chunk-2d0c0863.f3fcbe23.js",
+      "hash": "65c7549cbb28",
+      "size": 61994
+    },
+    {
+      "name": "chunk-2f843181.3b8617f7.js",
+      "hash": "29479c8c99fe",
+      "size": 13470
+    },
+    {
+      "name": "chunk-487814e8.d5a64535.js",
+      "hash": "50e7f79f71c5",
+      "size": 3085
+    },
+    {
+      "name": "chunk-48c7a42d.ad24715b.js",
+      "hash": "5f62f5bc993d",
+      "size": 1340
+    },
+    {
+      "name": "chunk-4c41a161.62bfebc1.js",
+      "hash": "78410016ba6f",
+      "size": 14824
+    },
+    {
+      "name": "chunk-4da0c8b0.51ca72bd.js",
+      "hash": "7665bd1f3b28",
+      "size": 38855
+    },
+    {
+      "name": "chunk-52ae7b58.1040dcdf.js",
+      "hash": "94c488567f19",
+      "size": 9203
+    },
+    {
+      "name": "chunk-57ae5643.0fd52fd0.js",
+      "hash": "02fad68af46a",
+      "size": 13909
+    },
+    {
+      "name": "chunk-5b7f3a98.603a8d60.js",
+      "hash": "eeed729d9172",
+      "size": 36595
+    },
+    {
+      "name": "chunk-5bdd67a2.af8855e3.js",
+      "hash": "60f531cb703d",
+      "size": 11368
+    },
+    {
+      "name": "chunk-5e3e7548.52be16ad.js",
+      "hash": "5296c979b104",
+      "size": 502996
+    },
+    {
+      "name": "chunk-68efe258.0c38d072.js",
+      "hash": "42d1edf865f2",
+      "size": 92234
+    },
+    {
+      "name": "chunk-77c0bb70.a81a92de.js",
+      "hash": "ccabd53debb8",
+      "size": 73017
+    },
+    {
+      "name": "chunk-93b46a5a.a85a214a.js",
+      "hash": "79269f572e6f",
+      "size": 1105
+    },
+    {
+      "name": "chunk-c5f309ea.bebb5cca.js",
+      "hash": "f620c3d40c97",
+      "size": 3389
+    },
+    {
+      "name": "chunk-d5fe8a2e.3c153127.js",
+      "hash": "c38de4a271bf",
+      "size": 2817036
+    },
+    {
+      "name": "chunk-e75bd346.a31fffba.js",
+      "hash": "9f72ba3f5c85",
+      "size": 201996
+    },
+    {
+      "name": "chunk-f42f23ea.38c70c2a.js",
+      "hash": "a76fa032288b",
+      "size": 16864
+    },
+    {
+      "name": "chunk-fd997986.42b6e837.js",
+      "hash": "3286d19cace8",
+      "size": 2442
+    },
+    {
+      "name": "noprefetch-78-EUC-H-bcmap.8093b949.js",
+      "hash": "cfcaa9835764",
+      "size": 3416
+    },
+    {
+      "name": "noprefetch-78-EUC-V-bcmap.ca19da1d.js",
+      "hash": "ce60a5da43c5",
+      "size": 440
+    },
+    {
+      "name": "noprefetch-78-H-bcmap.4fd0059e.js",
+      "hash": "8aa38cbac17f",
+      "size": 3378
+    },
+    {
+      "name": "noprefetch-78-RKSJ-H-bcmap.acc136e5.js",
+      "hash": "6b4653fd7598",
+      "size": 3409
+    },
+    {
+      "name": "noprefetch-78-RKSJ-V-bcmap.7943a9c1.js",
+      "hash": "c8e0548e7757",
+      "size": 443
+    },
+    {
+      "name": "noprefetch-78-V-bcmap.664c4625.js",
+      "hash": "fdb9bbc15d38",
+      "size": 432
+    },
+    {
+      "name": "noprefetch-78ms-RKSJ-H-bcmap.4de1df5d.js",
+      "hash": "87fdf86cc95f",
+      "size": 3749
+    },
+    {
+      "name": "noprefetch-78ms-RKSJ-V-bcmap.a5e9c61e.js",
+      "hash": "cd7502bba6d6",
+      "size": 599
+    },
+    {
+      "name": "noprefetch-83pv-RKSJ-H-bcmap.73b6907e.js",
+      "hash": "55522645c199",
+      "size": 1421
+    },
+    {
+      "name": "noprefetch-90ms-RKSJ-H-bcmap.ad77fa2d.js",
+      "hash": "30378a918473",
+      "size": 1177
+    },
+    {
+      "name": "noprefetch-90ms-RKSJ-V-bcmap.8b58276f.js",
+      "hash": "88e9352471be",
+      "size": 599
+    },
+    {
+      "name": "noprefetch-90msp-RKSJ-H-bcmap.1022a6b9.js",
+      "hash": "0613d4430e2f",
+      "size": 1168
+    },
+    {
+      "name": "noprefetch-90msp-RKSJ-V-bcmap.84ed5e41.js",
+      "hash": "59f9692b7c81",
+      "size": 602
+    },
+    {
+      "name": "noprefetch-90pv-RKSJ-H-bcmap.fe0b1413.js",
+      "hash": "5ff59c3d40ce",
+      "size": 1523
+    },
+    {
+      "name": "noprefetch-90pv-RKSJ-V-bcmap.864be56b.js",
+      "hash": "1c39bf13de62",
+      "size": 559
+    },
+    {
+      "name": "noprefetch-Add-H-bcmap.6d96dae2.js",
+      "hash": "773ea0aac05d",
+      "size": 3435
+    },
+    {
+      "name": "noprefetch-Add-RKSJ-H-bcmap.733978c2.js",
+      "hash": "7fcbb0495b28",
+      "size": 3432
+    },
+    {
+      "name": "noprefetch-Add-RKSJ-V-bcmap.22e84101.js",
+      "hash": "37cb7674f8b6",
+      "size": 594
+    },
+    {
+      "name": "noprefetch-Add-V-bcmap.748bb317.js",
+      "hash": "8e9ce0706a1b",
+      "size": 581
+    },
+    {
+      "name": "noprefetch-Adobe-CNS1-0-bcmap.227b7b73.js",
+      "hash": "4398b4b7b213",
+      "size": 636
+    },
+    {
+      "name": "noprefetch-Adobe-CNS1-1-bcmap.b8dae6f1.js",
+      "hash": "2fd5a51f066d",
+      "size": 708
+    },
+    {
+      "name": "noprefetch-Adobe-CNS1-2-bcmap.df9534fa.js",
+      "hash": "d1d6a335a513",
+      "size": 716
+    },
+    {
+      "name": "noprefetch-Adobe-CNS1-3-bcmap.2506fe9c.js",
+      "hash": "cb7ce08f9796",
+      "size": 748
+    },
+    {
+      "name": "noprefetch-Adobe-CNS1-4-bcmap.9d36cbba.js",
+      "hash": "eaac2faf2d0f",
+      "size": 752
+    },
+    {
+      "name": "noprefetch-Adobe-CNS1-5-bcmap.82479dea.js",
+      "hash": "3f72a22840a1",
+      "size": 756
+    },
+    {
+      "name": "noprefetch-Adobe-CNS1-6-bcmap.d4ede206.js",
+      "hash": "b93d6758f8e7",
+      "size": 756
+    },
+    {
+      "name": "noprefetch-Adobe-CNS1-UCS2-bcmap.999ec866.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-Adobe-GB1-0-bcmap.3b3901b0.js",
+      "hash": "1811f97ad170",
+      "size": 503
+    },
+    {
+      "name": "noprefetch-Adobe-GB1-1-bcmap.2f54ae4a.js",
+      "hash": "048c84474deb",
+      "size": 547
+    },
+    {
+      "name": "noprefetch-Adobe-GB1-2-bcmap.9363f68d.js",
+      "hash": "3325273c757e",
+      "size": 831
+    },
+    {
+      "name": "noprefetch-Adobe-GB1-3-bcmap.5fb8305b.js",
+      "hash": "6353f181f36d",
+      "size": 839
+    },
+    {
+      "name": "noprefetch-Adobe-GB1-4-bcmap.6be9a229.js",
+      "hash": "5c0fea4bd35e",
+      "size": 1017
+    },
+    {
+      "name": "noprefetch-Adobe-GB1-5-bcmap.e2572365.js",
+      "hash": "5e335bbf6ea5",
+      "size": 1049
+    },
+    {
+      "name": "noprefetch-Adobe-GB1-UCS2-bcmap.a36573cb.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-Adobe-Japan1-0-bcmap.84dbf958.js",
+      "hash": "c00f4bf5e287",
+      "size": 516
+    },
+    {
+      "name": "noprefetch-Adobe-Japan1-1-bcmap.52cd3af7.js",
+      "hash": "52431f5027fd",
+      "size": 520
+    },
+    {
+      "name": "noprefetch-Adobe-Japan1-2-bcmap.c0b85945.js",
+      "hash": "bd7c11dd7516",
+      "size": 526
+    },
+    {
+      "name": "noprefetch-Adobe-Japan1-3-bcmap.12537bcb.js",
+      "hash": "ff48eeca31bd",
+      "size": 540
+    },
+    {
+      "name": "noprefetch-Adobe-Japan1-4-bcmap.14c4ae8d.js",
+      "hash": "eafa1f430f18",
+      "size": 668
+    },
+    {
+      "name": "noprefetch-Adobe-Japan1-5-bcmap.5cd925ec.js",
+      "hash": "df409ad87916",
+      "size": 792
+    },
+    {
+      "name": "noprefetch-Adobe-Japan1-6-bcmap.6bdbee60.js",
+      "hash": "a91b18952eac",
+      "size": 862
+    },
+    {
+      "name": "noprefetch-Adobe-Japan1-UCS2-bcmap.bc1bbf92.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-Adobe-Korea1-0-bcmap.4ba9e0cc.js",
+      "hash": "fca4aa332d40",
+      "size": 538
+    },
+    {
+      "name": "noprefetch-Adobe-Korea1-1-bcmap.ddcf1271.js",
+      "hash": "8fad8d66b44a",
+      "size": 732
+    },
+    {
+      "name": "noprefetch-Adobe-Korea1-2-bcmap.ad916aaa.js",
+      "hash": "7c5c3e0ac418",
+      "size": 738
+    },
+    {
+      "name": "noprefetch-Adobe-Korea1-UCS2-bcmap.fb831021.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-B5-H-bcmap.99e2e408.js",
+      "hash": "da922f2f02be",
+      "size": 1652
+    },
+    {
+      "name": "noprefetch-B5-V-bcmap.5e49dc83.js",
+      "hash": "460621c5af67",
+      "size": 396
+    },
+    {
+      "name": "noprefetch-B5pc-H-bcmap.3b8efdda.js",
+      "hash": "d61d7c9d52e2",
+      "size": 1674
+    },
+    {
+      "name": "noprefetch-B5pc-V-bcmap.f9f63aa7.js",
+      "hash": "d4952811050a",
+      "size": 398
+    },
+    {
+      "name": "noprefetch-CNS-EUC-H-bcmap.54ba3579.js",
+      "hash": "ecf92ba5d145",
+      "size": 2585
+    },
+    {
+      "name": "noprefetch-CNS-EUC-V-bcmap.6c3789e5.js",
+      "hash": "cfca7d4f24a0",
+      "size": 2771
+    },
+    {
+      "name": "noprefetch-CNS1-H-bcmap.7b7c26fa.js",
+      "hash": "74a8cc51e8d8",
+      "size": 1150
+    },
+    {
+      "name": "noprefetch-CNS1-V-bcmap.fc7c48dc.js",
+      "hash": "91f9f17819bc",
+      "size": 398
+    },
+    {
+      "name": "noprefetch-CNS2-H-bcmap.f02e75b0.js",
+      "hash": "e2448ea203a1",
+      "size": 878
+    },
+    {
+      "name": "noprefetch-CNS2-V-bcmap.37f08620.js",
+      "hash": "8667b350b3da",
+      "size": 330
+    },
+    {
+      "name": "noprefetch-ETHK-B5-H-bcmap.ecc5c527.js",
+      "hash": "692de40c4abf",
+      "size": 6115
+    },
+    {
+      "name": "noprefetch-ETHK-B5-V-bcmap.1b29c974.js",
+      "hash": "31d73e9c2f53",
+      "size": 423
+    },
+    {
+      "name": "noprefetch-ETen-B5-H-bcmap.68fe56e4.js",
+      "hash": "ec701f0c1aa5",
+      "size": 1709
+    },
+    {
+      "name": "noprefetch-ETen-B5-V-bcmap.fcce0c16.js",
+      "hash": "b45fc4e9527c",
+      "size": 422
+    },
+    {
+      "name": "noprefetch-ETenms-B5-H-bcmap.9e632f14.js",
+      "hash": "45594e64b670",
+      "size": 347
+    },
+    {
+      "name": "noprefetch-ETenms-B5-V-bcmap.96afb640.js",
+      "hash": "a20d32ea0486",
+      "size": 445
+    },
+    {
+      "name": "noprefetch-EUC-H-bcmap.f2153543.js",
+      "hash": "85e42f00c03a",
+      "size": 977
+    },
+    {
+      "name": "noprefetch-EUC-V-bcmap.abc47d3b.js",
+      "hash": "b2239b4b4334",
+      "size": 435
+    },
+    {
+      "name": "noprefetch-Ext-H-bcmap.43a83d05.js",
+      "hash": "8e8bdd3420a2",
+      "size": 3589
+    },
+    {
+      "name": "noprefetch-Ext-RKSJ-H-bcmap.8185722d.js",
+      "hash": "c93d4ecf1103",
+      "size": 3602
+    },
+    {
+      "name": "noprefetch-Ext-RKSJ-V-bcmap.0d94bd96.js",
+      "hash": "d9c598720f0f",
+      "size": 502
+    },
+    {
+      "name": "noprefetch-Ext-V-bcmap.efae32ae.js",
+      "hash": "b1292932a754",
+      "size": 493
+    },
+    {
+      "name": "noprefetch-GB-EUC-H-bcmap.5d8a841e.js",
+      "hash": "50ea16271381",
+      "size": 942
+    },
+    {
+      "name": "noprefetch-GB-EUC-V-bcmap.4167e6f8.js",
+      "hash": "ec6fd6037d9b",
+      "size": 450
+    },
+    {
+      "name": "noprefetch-GB-H-bcmap.ffbd923f.js",
+      "hash": "c7f9e571a852",
+      "size": 910
+    },
+    {
+      "name": "noprefetch-GB-V-bcmap.7547c3c1.js",
+      "hash": "ccaecd965a35",
+      "size": 442
+    },
+    {
+      "name": "noprefetch-GBK-EUC-H-bcmap.9fc05e4d.js",
+      "hash": "4dbbe5b33628",
+      "size": 19801
+    },
+    {
+      "name": "noprefetch-GBK-EUC-V-bcmap.c14a571a.js",
+      "hash": "6e23f1dbba7c",
+      "size": 449
+    },
+    {
+      "name": "noprefetch-GBK2K-H-bcmap.df811314.js",
+      "hash": "32b7e3e7ea38",
+      "size": 26423
+    },
+    {
+      "name": "noprefetch-GBK2K-V-bcmap.a0f71cae.js",
+      "hash": "f426caf376c5",
+      "size": 501
+    },
+    {
+      "name": "noprefetch-GBKp-EUC-H-bcmap.ef331b2b.js",
+      "hash": "49638122da91",
+      "size": 19796
+    },
+    {
+      "name": "noprefetch-GBKp-EUC-V-bcmap.fb3a16d6.js",
+      "hash": "d72fa0d9c4ed",
+      "size": 456
+    },
+    {
+      "name": "noprefetch-GBT-EUC-H-bcmap.a507af3c.js",
+      "hash": "b9dbf3b49d75",
+      "size": 9931
+    },
+    {
+      "name": "noprefetch-GBT-EUC-V-bcmap.1fab0569.js",
+      "hash": "41e845a59a4d",
+      "size": 451
+    },
+    {
+      "name": "noprefetch-GBT-H-bcmap.33f739b5.js",
+      "hash": "79716d5fd2b0",
+      "size": 9897
+    },
+    {
+      "name": "noprefetch-GBT-V-bcmap.f55a8087.js",
+      "hash": "64bfe0e686cd",
+      "size": 443
+    },
+    {
+      "name": "noprefetch-GBTpc-EUC-H-bcmap.da8af9a1.js",
+      "hash": "2d7ef81da545",
+      "size": 9945
+    },
+    {
+      "name": "noprefetch-GBTpc-EUC-V-bcmap.fb4e9b21.js",
+      "hash": "bfed651c32d0",
+      "size": 455
+    },
+    {
+      "name": "noprefetch-GBpc-EUC-H-bcmap.a5815051.js",
+      "hash": "d4101fb76e98",
+      "size": 956
+    },
+    {
+      "name": "noprefetch-GBpc-EUC-V-bcmap.4d63086a.js",
+      "hash": "6972622b0cdb",
+      "size": 454
+    },
+    {
+      "name": "noprefetch-H-bcmap.4e14b03a.js",
+      "hash": "86e71c440c52",
+      "size": 941
+    },
+    {
+      "name": "noprefetch-HKdla-B5-H-bcmap.62119b13.js",
+      "hash": "ee4ea8bc72ca",
+      "size": 3750
+    },
+    {
+      "name": "noprefetch-HKdla-B5-V-bcmap.fc026360.js",
+      "hash": "7d38f1618950",
+      "size": 410
+    },
+    {
+      "name": "noprefetch-HKdlb-B5-H-bcmap.cfb0c3b1.js",
+      "hash": "fb23bc276173",
+      "size": 3430
+    },
+    {
+      "name": "noprefetch-HKdlb-B5-V-bcmap.c3cfbffa.js",
+      "hash": "dfe292778fb7",
+      "size": 410
+    },
+    {
+      "name": "noprefetch-HKgccs-B5-H-bcmap.2cbf755b.js",
+      "hash": "fddf14e7869b",
+      "size": 3269
+    },
+    {
+      "name": "noprefetch-HKgccs-B5-V-bcmap.eb25e2c1.js",
+      "hash": "f89d018b62ea",
+      "size": 411
+    },
+    {
+      "name": "noprefetch-HKm314-B5-H-bcmap.c9c893ac.js",
+      "hash": "d13b7bb04659",
+      "size": 2577
+    },
+    {
+      "name": "noprefetch-HKm314-B5-V-bcmap.6ec571b1.js",
+      "hash": "7788e9ebd34e",
+      "size": 411
+    },
+    {
+      "name": "noprefetch-HKm471-B5-H-bcmap.25a5b877.js",
+      "hash": "6aa2212359ca",
+      "size": 3107
+    },
+    {
+      "name": "noprefetch-HKm471-B5-V-bcmap.f43fe1c5.js",
+      "hash": "e787bf79f7c4",
+      "size": 411
+    },
+    {
+      "name": "noprefetch-HKscs-B5-H-bcmap.b8a7149d.js",
+      "hash": "ea564a07e5cc",
+      "size": 6128
+    },
+    {
+      "name": "noprefetch-HKscs-B5-V-bcmap.6f28632d.js",
+      "hash": "e9165fc9d051",
+      "size": 425
+    },
+    {
+      "name": "noprefetch-Hankaku-bcmap.f2084e62.js",
+      "hash": "82e9149140e2",
+      "size": 383
+    },
+    {
+      "name": "noprefetch-Hiragana-bcmap.fb7f36c8.js",
+      "hash": "83deee8041d8",
+      "size": 378
+    },
+    {
+      "name": "noprefetch-KSC-EUC-H-bcmap.d834beca.js",
+      "hash": "1c2566015e96",
+      "size": 2673
+    },
+    {
+      "name": "noprefetch-KSC-EUC-V-bcmap.3e9f3514.js",
+      "hash": "8e269c4665f9",
+      "size": 431
+    },
+    {
+      "name": "noprefetch-KSC-H-bcmap.1f3a09a5.js",
+      "hash": "672a7a07b4b4",
+      "size": 2651
+    },
+    {
+      "name": "noprefetch-KSC-Johab-H-bcmap.09f2b050.js",
+      "hash": "e54ff4715036",
+      "size": 22601
+    },
+    {
+      "name": "noprefetch-KSC-Johab-V-bcmap.94655cc5.js",
+      "hash": "dc446ed7fcd6",
+      "size": 437
+    },
+    {
+      "name": "noprefetch-KSC-V-bcmap.b5bf0539.js",
+      "hash": "288d197ec988",
+      "size": 423
+    },
+    {
+      "name": "noprefetch-KSCms-UHC-H-bcmap.c48a8aa9.js",
+      "hash": "649a91da3cd0",
+      "size": 3927
+    },
+    {
+      "name": "noprefetch-KSCms-UHC-HW-H-bcmap.192065cd.js",
+      "hash": "e9c14c0ed1e0",
+      "size": 3934
+    },
+    {
+      "name": "noprefetch-KSCms-UHC-HW-V-bcmap.19195a7b.js",
+      "hash": "04264b07296b",
+      "size": 444
+    },
+    {
+      "name": "noprefetch-KSCms-UHC-V-bcmap.1483839b.js",
+      "hash": "32eecc4fe713",
+      "size": 437
+    },
+    {
+      "name": "noprefetch-KSCpc-EUC-H-bcmap.a4f49909.js",
+      "hash": "874d8f411722",
+      "size": 2913
+    },
+    {
+      "name": "noprefetch-KSCpc-EUC-V-bcmap.7655bd97.js",
+      "hash": "4cceaebb606f",
+      "size": 437
+    },
+    {
+      "name": "noprefetch-Katakana-bcmap.d4f925f3.js",
+      "hash": "eac42213f5fa",
+      "size": 344
+    },
+    {
+      "name": "noprefetch-NWP-H-bcmap.6cf06a0c.js",
+      "hash": "b7e80b6cb4e7",
+      "size": 3895
+    },
+    {
+      "name": "noprefetch-NWP-V-bcmap.86b966e6.js",
+      "hash": "966f26d91a62",
+      "size": 541
+    },
+    {
+      "name": "noprefetch-RKSJ-H-bcmap.dc99339d.js",
+      "hash": "35f9c0a9bd0a",
+      "size": 920
+    },
+    {
+      "name": "noprefetch-RKSJ-V-bcmap.02022823.js",
+      "hash": "cd971fe9e2ee",
+      "size": 436
+    },
+    {
+      "name": "noprefetch-Roman-bcmap.3666e5d0.js",
+      "hash": "ae5a22ce4a8f",
+      "size": 335
+    },
+    {
+      "name": "noprefetch-UniCNS-UCS2-H-bcmap.95183d4a.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniCNS-UCS2-V-bcmap.19522e67.js",
+      "hash": "e5daa12419b0",
+      "size": 421
+    },
+    {
+      "name": "noprefetch-UniCNS-UTF16-H-bcmap.3c759432.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniCNS-UTF16-V-bcmap.3d698d0c.js",
+      "hash": "f039e30865d6",
+      "size": 422
+    },
+    {
+      "name": "noprefetch-UniCNS-UTF32-H-bcmap.e71af530.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniCNS-UTF32-V-bcmap.582dff7f.js",
+      "hash": "e2a441d12f76",
+      "size": 430
+    },
+    {
+      "name": "noprefetch-UniCNS-UTF8-H-bcmap.eb23eada.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniCNS-UTF8-V-bcmap.039b92ce.js",
+      "hash": "a772a8b669e8",
+      "size": 427
+    },
+    {
+      "name": "noprefetch-UniGB-UCS2-H-bcmap.a590715d.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniGB-UCS2-V-bcmap.ab896eb2.js",
+      "hash": "5e5a87b59e8d",
+      "size": 474
+    },
+    {
+      "name": "noprefetch-UniGB-UTF16-H-bcmap.98b9fe4c.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniGB-UTF16-V-bcmap.b345e557.js",
+      "hash": "4b44f2e7564a",
+      "size": 455
+    },
+    {
+      "name": "noprefetch-UniGB-UTF32-H-bcmap.203236b2.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniGB-UTF32-V-bcmap.97377652.js",
+      "hash": "87ca633a3657",
+      "size": 457
+    },
+    {
+      "name": "noprefetch-UniGB-UTF8-H-bcmap.d4c2d226.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniGB-UTF8-V-bcmap.fc8be8ce.js",
+      "hash": "984e28ea5850",
+      "size": 458
+    },
+    {
+      "name": "noprefetch-UniJIS-UCS2-H-bcmap.73e54752.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniJIS-UCS2-HW-H-bcmap.b9b17831.js",
+      "hash": "886525fb5ef8",
+      "size": 377
+    },
+    {
+      "name": "noprefetch-UniJIS-UCS2-HW-V-bcmap.ad007b8c.js",
+      "hash": "b109eee7aafd",
+      "size": 1124
+    },
+    {
+      "name": "noprefetch-UniJIS-UCS2-V-bcmap.a29a0c9d.js",
+      "hash": "589376300a9b",
+      "size": 1103
+    },
+    {
+      "name": "noprefetch-UniJIS-UTF16-H-bcmap.1b967829.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniJIS-UTF16-V-bcmap.80b34c80.js",
+      "hash": "8fac56862c86",
+      "size": 1074
+    },
+    {
+      "name": "noprefetch-UniJIS-UTF32-H-bcmap.6a5b72ae.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniJIS-UTF32-V-bcmap.d25769ac.js",
+      "hash": "562f3eb80444",
+      "size": 1118
+    },
+    {
+      "name": "noprefetch-UniJIS-UTF8-H-bcmap.1e25f39a.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniJIS-UTF8-V-bcmap.e8475c0e.js",
+      "hash": "5bd49a86ce50",
+      "size": 1119
+    },
+    {
+      "name": "noprefetch-UniJIS2004-UTF16-H-bcmap.a8825a67.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniJIS2004-UTF16-V-bcmap.07e4c301.js",
+      "hash": "24598bfbdc19",
+      "size": 1084
+    },
+    {
+      "name": "noprefetch-UniJIS2004-UTF32-H-bcmap.bc4df3ae.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniJIS2004-UTF32-V-bcmap.ccc60707.js",
+      "hash": "032eb5d3791b",
+      "size": 1126
+    },
+    {
+      "name": "noprefetch-UniJIS2004-UTF8-H-bcmap.d6007db3.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniJIS2004-UTF8-V-bcmap.5f0956b1.js",
+      "hash": "b7b37fa91707",
+      "size": 1131
+    },
+    {
+      "name": "noprefetch-UniJISPro-UCS2-HW-V-bcmap.08a90cb4.js",
+      "hash": "5b5620baed8b",
+      "size": 1159
+    },
+    {
+      "name": "noprefetch-UniJISPro-UCS2-V-bcmap.c1de0b8d.js",
+      "hash": "155a69ff5aa2",
+      "size": 1136
+    },
+    {
+      "name": "noprefetch-UniJISPro-UTF8-V-bcmap.18d95439.js",
+      "hash": "0c119534b549",
+      "size": 1184
+    },
+    {
+      "name": "noprefetch-UniJISX0213-UTF32-H-bcmap.4b8303e0.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniJISX0213-UTF32-V-bcmap.5741c504.js",
+      "hash": "2a872371b4a0",
+      "size": 1131
+    },
+    {
+      "name": "noprefetch-UniJISX02132004-UTF32-H-bcmap.19377f15.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniJISX02132004-UTF32-V-bcmap.9827896e.js",
+      "hash": "6f87c72a238e",
+      "size": 1143
+    },
+    {
+      "name": "noprefetch-UniKS-UCS2-H-bcmap.d1367e0c.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniKS-UCS2-V-bcmap.7a970f00.js",
+      "hash": "0b29592a4450",
+      "size": 452
+    },
+    {
+      "name": "noprefetch-UniKS-UTF16-H-bcmap.ed67d80a.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniKS-UTF16-V-bcmap.2ceb938d.js",
+      "hash": "c01e371114f7",
+      "size": 435
+    },
+    {
+      "name": "noprefetch-UniKS-UTF32-H-bcmap.230987da.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniKS-UTF32-V-bcmap.ffa75fef.js",
+      "hash": "cc5d2a9cea14",
+      "size": 437
+    },
+    {
+      "name": "noprefetch-UniKS-UTF8-H-bcmap.69dc3a1b.js",
+      "hash": "01c22ba560e7",
+      "size": 41542
+    },
+    {
+      "name": "noprefetch-UniKS-UTF8-V-bcmap.cd4463c4.js",
+      "hash": "65593517adff",
+      "size": 442
+    },
+    {
+      "name": "noprefetch-V-bcmap.bbf7f07a.js",
+      "hash": "a2bf30aae8d6",
+      "size": 427
+    },
+    {
+      "name": "noprefetch-WP-Symbol-bcmap.29a14505.js",
+      "hash": "3bc8acf274d1",
+      "size": 449
+    }
+  ],
+  "signer": {
+    "source": "live:app.1d9f0166.js",
+    "salt": null,
+    "appkey": "368480924A6C78E2E8681551A7CF4C21"
+  },
+  "appkeyFromSource": null,
+  "headers": {
+    "token": "Logininfo = localStorage[\"LOGININFO\"]",
+    "sign": "signcode = signer({appkey,timestamp,...payload}, method)"
+  },
+  "endpoints": {
+    "total": 361,
+    "key": [
+      "/api/getPersonInfo",
+      "/asign/contract/createContract",
+      "/asign/contract/list",
+      "/asign/entEle/getAuthUrl",
+      "/asign/entEle/getEntInfo",
+      "/attend/attendLocation/getPositions",
+      "/attend/attendLocation/getTeamTree",
+      "/attend/attendLocation/insert",
+      "/attend/attendLocation/json",
+      "/attend/attendLocation/project/getPositions",
+      "/attend/attendMachine/clearPerson",
+      "/attend/attendMachine/insert",
+      "/attend/attendMachine/list",
+      "/attend/attendMachine/unbind",
+      "/attend/attendMachine/update",
+      "/attend/attendRate/calculate",
+      "/attend/attendRate/insert",
+      "/attend/attendRate/list",
+      "/attend/attendRate/update",
+      "/attend/attendRateBj/list",
+      "/attend/attendTable",
+      "/attend/config/add",
+      "/attend/config/edit",
+      "/attend/config/enableAddAttend",
+      "/attend/config/enableAttendValid",
+      "/attend/config/getPage",
+      "/attend/deviceTask/deleteDeviceTask",
+      "/attend/deviceTask/getDeviceTasksCache",
+      "/attend/deviceTask/list",
+      "/attend/deviceWhiteList/deviceAreaInfo",
+      "/attend/deviceWhiteList/list",
+      "/attend/deviceWhiteList/saveBatch",
+      "/attend/deviceWhiteList/statistics",
+      "/attend/deviceWhiteList/update",
+      "/attend/import/add",
+      "/attend/import/attendInvalid",
+      "/attend/insert",
+      "/attend/list",
+      "/attend/randomAttend",
+      "/attend/rangeAttend",
+      "/attend/specialAttend/insert",
+      "/attend/specialAttend/list",
+      "/attend/specialAttend/update",
+      "/attend/unbindRecord/insert",
+      "/attend/update",
+      "/auth/zbj/createContract",
+      "/contract/contract/createContract",
+      "/contract/contract/exportContract",
+      "/contract/contract/list",
+      "/contract/contract/paperContract",
+      "/contract/contract/uploadContract",
+      "/contract/contractFiles/list",
+      "/contract/ent/audit",
+      "/contract/ent/audit/pendingRecord",
+      "/contract/ent/audit/submitForReview",
+      "/contract/entEle/entCheck",
+      "/contract/entEle/getEntInfo",
+      "/contract/index",
+      "/contractAdd/add",
+      "/contractAdd/detail",
+      "/contractAdd/register",
+      "/contractCopy/index",
+      "/contractCopyAdd/add",
+      "/contractCopyAdd/detail",
+      "/contractCopyAdd/register",
+      "/contractTemplate/index",
+      "/depart/getProjectDepartList",
+      "/device/operate/registerPerson",
+      "/form/patrolPerson/insert",
+      "/form/patrolPerson/list",
+      "/form/patrolPerson/update",
+      "/login/third",
+      "/login/unverified",
+      "/newIndicators/getSettlementList",
+      "/noAuthProject/attend/file",
+      "/noAuthProject/attend/file/del",
+      "/noAuthProject/attend/file/edit",
+      "/noAuthProject/detail",
+      "/noAuthProject/exit/file",
+      "/noAuthProject/exit/file/del",
+      "/noAuthProject/exit/file/edit",
+      "/noAuthProject/getRecords",
+      "/noAuthProject/listPage",
+      "/noAuthProject/recordIdQuery",
+      "/noAuthProject/salary/file",
+      "/noAuthProject/salary/file/del",
+      "/noAuthProject/salary/file/edit",
+      "/noAuthProject/save",
+      "/person/projectShortWorkDays/list",
+      "/project/projectContractFile/list",
+      "/project/projectContractFile/saveFiles",
+      "/project/serviceRecord/insert",
+      "/project/serviceRecord/list",
+      "/project/settlement/insert",
+      "/project/settlement/list",
+      "/project/settlement/update",
+      "/project/settlementFile/list",
+      "/project/specialPerson/getManager",
+      "/project/specialPerson/list",
+      "/project/wageAccount/getFileList",
+      "/project/wageAccount/haveAddButton",
+      "/project/wageAccount/insert",
+      "/project/wageAccount/list",
+      "/project/wageAccount/update",
+      "/project/wageAccount/updateAccountFile",
+      "/project/wageAccount/validate",
+      "/provider/providerProject/insert",
+      "/provider/providerProject/list",
+      "/provider/providerProject/update",
+      "/rrs/bgyProject/insert",
+      "/rrs/bgyProject/list",
+      "/rrs/bgyProject/update",
+      "/rrs/ent/find",
+      "/rrs/ent/insert",
+      "/rrs/ent/list",
+      "/rrs/ent/listV2",
+      "/rrs/ent/update",
+      "/rrs/idCard/insert",
+      "/rrs/idCard/list",
+      "/rrs/idCard/update",
+      "/rrs/person/changeTeam",
+      "/rrs/person/checkInProject",
+      "/rrs/person/contractPersons",
+      "/rrs/person/excel",
+      "/rrs/person/getSafetyOfficer",
+      "/rrs/person/importExcel",
+      "/rrs/person/insert",
+      "/rrs/person/list",
+      "/rrs/person/regain",
+      "/rrs/person/update",
+      "/rrs/person/updateBankNos",
+      "/rrs/project/download",
+      "/rrs/project/downloadAttendIncrement",
+      "/rrs/project/downloadProjectIncrement",
+      "/rrs/project/filingNoValidate",
+      "/rrs/project/find",
+      "/rrs/project/get5SidedBodyHistory",
+      "/rrs/project/getAllEnterprise",
+      "/rrs/project/getAreaTree",
+      "/rrs/project/getZFProjectNumber",
+      "/rrs/project/insert",
+      "/rrs/project/laborCosts",
+      "/rrs/project/list",
+      "/rrs/project/listV1",
+      "/rrs/project/projectList",
+      "/rrs/project/queryByBuildLicense",
+      "/rrs/project/queryIncrement",
+      "/rrs/project/saveSettlementCycle",
+      "/rrs/project/setAttendRange",
+      "/rrs/project/update",
+      "/rrs/projectFile/insert",
+      "/rrs/projectFile/list",
+      "/rrs/projectFile/update",
+      "/rrs/projectIris/getConfigInfo",
+      "/rrs/projectIris/updateConfigInfo",
+      "/rrs/projectSub/insert",
+      "/rrs/projectSub/list",
+      "/rrs/projectSub/update",
+      "/rrs/projectcsr/audit",
+      "/rrs/projectcsr/auditUrl",
+      "/rrs/projectcsr/getCsr",
+      "/rrs/projectcsr/pageList",
+      "/rrs/projectcsr/save",
+      "/rrs/projectcsr/saveAndSubmit",
+      "/rrs/salary/insert",
+      "/rrs/salary/list",
+      "/rrs/salary/update",
+      "/rrs/salaryDetail/list",
+      "/rrs/salaryDetail/statistics",
+      "/rrs/salaryFile/getDetailList",
+      "/rrs/team/insert",
+      "/rrs/team/list",
+      "/rrs/team/update",
+      "/rrs/unsafeProject/insert",
+      "/rrs/unsafeProject/list",
+      "/rrs/unsafeProject/update",
+      "/securitypayment/infoByRecordId",
+      "/securitypayment/syncBankInfo",
+      "/sixIndex/newIndicators/getSettlementList",
+      "/sixIndex/project/downloadAttendanceList",
+      "/sixIndex/warning/project/salaryAndAttend",
+      "/statistics/dashboard/V1",
+      "/statistics/project/dashboard",
+      "/statistics/project/leaveJob",
+      "/statistics/zhptWarning100",
+      "/thirdResult/insert",
+      "/thirdResult/list",
+      "/thirdResult/update",
+      "/warning/NoAuth/updatePayment",
+      "/warning/index/latestHalfYearNoticePersonNums",
+      "/warning/index/latestHalfYearNoticeProjectNums",
+      "/warning/index/projectCount",
+      "/warning/index/salaryConfirmInfo",
+      "/warning/project/approve",
+      "/warning/project/audit",
+      "/warning/project/builderLicenseNum",
+      "/warning/project/detail",
+      "/warning/project/downloadAttendanceList",
+      "/warning/project/downloadList",
+      "/warning/project/getPersonMonthAttendDays",
+      "/warning/project/getSalaryList",
+      "/warning/project/logPage",
+      "/warning/project/pageList",
+      "/warning/project/queryPage",
+      "/warning/project/salaryAndAttend",
+      "/warning/project/updateStatus",
+      "/zbj/contractRecord/insert",
+      "/zbj/contractRecord/list",
+      "/zbj/contractRecord/update",
+      "/zbj/contractTemplate/insert",
+      "/zbj/contractTemplate/list",
+      "/zbj/contractTemplate/templateList",
+      "/zbj/contractTemplate/update",
+      "/zbj/zbjEnt/insert",
+      "/zbj/zbjEnt/list",
+      "/zbj/zbjEnt/update"
+    ]
+  },
+  "channelA": {
+    "verified": true,
+    "account": "gshcyxx",
+    "token": "7a9fcc67-a84c-4140-be14-1049045c836d"
+  },
+  "elapsedMs": 14555
+}

@@ -1,0 +1,29 @@
+{
+  "name": "qxb-livesite",
+  "version": "0.1.0",
+  "private": true,
+  "description": "黔薪保「活站点实时取数」服务：源码自举契约 + 双通道（API/UI）执行，免维护站点 API",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "poc:contract": "node poc/derive-contract.mjs",
+    "dev": "tsx src/index.ts",
+    "bootstrap": "tsx src/index.ts bootstrap",
+    "probe": "tsx src/index.ts probe",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "playwright-core": "1.62.1",
+    "zod": "4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "24.3.1",
+    "tsx": "4.20.5",
+    "typescript": "5.9.2",
+    "vitest": "3.2.4"
+  }
+}

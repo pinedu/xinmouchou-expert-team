@@ -1,11 +1,23 @@
 # LiveSite Bridge — 黔薪保活站点数据桥梁
 
-本 Skill 为薪莫愁专家团（尤其是实时通道接入师 `tong-bida` 和主理人 `xinmouchou-team-lead`）提供与本地 `xmc-livesite` 编排器的直接交互通道。
+本 Skill 为薪莫愁专家团（尤其是实时通道接入师 `tong-bida` 和主理人 `xinmouchou-team-lead`）提供与内置活站点编排器的直接交互通道。
 
-系统通过动态环境定位 livesite 路径（优先工作空间同级目录或 `XMC_LIVESITE_DIR` 环境变量），执行指令统一使用自适应路径：
+本插件为**自包含架构（Self-contained）**，内置执行引擎位于本 Skill 的 `runtime` 目录中。
+执行时按以下顺序自适应定位：
+1. 本插件内置运行目录：`$PLUGIN_DIR/skills/livesite-bridge/runtime`
+2. 用户工作区同级目录：`./xmc-livesite` 或环境变量 `XMC_LIVESITE_DIR`
+
+自适应执行前导命令：
 ```bash
-LIVESITE_DIR="${XMC_LIVESITE_DIR:-./xmc-livesite}"
-cd "$LIVESITE_DIR"
+if [ -d "$PLUGIN_DIR/skills/livesite-bridge/runtime" ]; then
+  LIVESITE_DIR="$PLUGIN_DIR/skills/livesite-bridge/runtime"
+elif [ -n "$XMC_LIVESITE_DIR" ]; then
+  LIVESITE_DIR="$XMC_LIVESITE_DIR"
+elif [ -d "./xmc-livesite" ]; then
+  LIVESITE_DIR="./xmc-livesite"
+else
+  LIVESITE_DIR="C:/Users/Administrator/Desktop/黔薪保/qxb-livesite"
+fi
 ```
 
 ---
