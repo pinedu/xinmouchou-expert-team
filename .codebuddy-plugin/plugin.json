@@ -1,0 +1,98 @@
+{
+  "name": "xinmouchou-team",
+  "version": "1.0.0",
+  "description": "Expert team specialized in real-time labor compliance, attendance, payroll audit and live site data analysis.",
+  "author": {
+    "name": "Antigravity & 龙哥",
+    "email": "admin@workbuddy.cn"
+  },
+  "agents": [
+    "./agents/xinmouchou-team-lead.md",
+    "./agents/tong-bida.md",
+    "./agents/cheng-mingbiao.md",
+    "./agents/shi-daka.md",
+    "./agents/qian-faquan.md"
+  ],
+  "skills": [
+    "./skills/livesite-bridge"
+  ],
+
+  "expertType": "team",
+  "agentName": "xinmouchou-team-lead",
+  "teamInfo": {
+    "leadAgent": "xinmouchou-team-lead",
+    "memberAgents": [
+      "tong-bida",
+      "cheng-mingbiao",
+      "shi-daka",
+      "qian-faquan"
+    ]
+  },
+
+  "displayName": {
+    "en": "Xinmouchou Expert Team",
+    "zh": "薪莫愁专家团"
+  },
+  "profession": {
+    "en": "Xinmouchou Expert Team",
+    "zh": "薪莫愁专家团"
+  },
+  "displayDescription": {
+    "en": "Specialized in live labor data acquisition, six 100% compliance, attendance and payroll audit.",
+    "zh": "依托实时站点通道与工作空间，专精项目五方主体、六个百分百、考勤流水与工资专户全链路透视分析。"
+  },
+  "avatar": "avatars/team.png",
+  "categoryId": "04-DataAI",
+  "defaultInitPrompt": {
+    "zh": "分析当前名下项目的六个百分百合规与用工健康度",
+    "en": "Analyze the six 100% compliance and health metrics of current projects."
+  },
+  "plugin": "xinmouchou-team",
+  "tags": [
+    { "en": "Six 100% Indicators", "zh": "六个百分百合规" },
+    { "en": "Attendance & Payroll Audit", "zh": "考勤薪酬审计" },
+    { "en": "Live Data Acquisition", "zh": "实时数据通道" }
+  ],
+  "quickPrompts": [
+    { "en": "Analyze the six 100% compliance and health metrics of current projects.", "zh": "分析当前名下项目的六个百分百合规与用工健康度" },
+    { "en": "Retrieve current project labor roster and monthly attendance table.", "zh": "调取当前项目人员花名册与本月考勤出勤表" },
+    { "en": "Audit the latest wage account disbursements and departure settlements.", "zh": "核查最近一期农民工工资专户发放与离场结算明细" }
+  ],
+  "members": [
+    {
+      "id": "xinmouchou-team-lead",
+      "displayName": { "en": "Yan", "zh": "严总揽" },
+      "profession": { "en": "Labor Compliance Director", "zh": "劳务用工督导总监" },
+      "avatar": "avatars/xinmouchou-team-lead.png",
+      "role": "lead"
+    },
+    {
+      "id": "tong-bida",
+      "displayName": { "en": "Tong", "zh": "通必达" },
+      "profession": { "en": "Live Channel Engineer", "zh": "实时通道接入师" },
+      "avatar": "avatars/tong-bida.png",
+      "role": "member"
+    },
+    {
+      "id": "cheng-mingbiao",
+      "displayName": { "en": "Cheng", "zh": "程明标" },
+      "profession": { "en": "Project Compliance Analyst", "zh": "工程合规分析师" },
+      "avatar": "avatars/cheng-mingbiao.png",
+      "role": "member"
+    },
+    {
+      "id": "shi-daka",
+      "displayName": { "en": "Shi", "zh": "时打卡" },
+      "profession": { "en": "Labor Attendance Analyst", "zh": "劳务考勤分析师" },
+      "avatar": "avatars/shi-daka.png",
+      "role": "member"
+    },
+    {
+      "id": "qian-faquan",
+      "displayName": { "en": "Qian", "zh": "钱发全" },
+      "profession": { "en": "Payroll & Account Auditor", "zh": "薪酬专户审计师" },
+      "avatar": "avatars/qian-faquan.png",
+      "role": "member"
+    }
+  ]
+}
